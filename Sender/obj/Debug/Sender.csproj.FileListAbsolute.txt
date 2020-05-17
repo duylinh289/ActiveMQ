@@ -1,0 +1,11 @@
+T:\MQ\MQ\bin\Debug\MQ.exe.config
+T:\MQ\MQ\bin\Debug\MQ.exe
+T:\MQ\MQ\bin\Debug\MQ.pdb
+T:\MQ\MQ\bin\Debug\Apache.NMS.ActiveMQ.dll
+T:\MQ\MQ\bin\Debug\Apache.NMS.dll
+T:\MQ\MQ\bin\Debug\Apache.NMS.pdb
+T:\MQ\MQ\bin\Debug\Apache.NMS.ActiveMQ.pdb
+T:\MQ\MQ\bin\Debug\Apache.NMS.ActiveMQ.xml
+T:\MQ\MQ\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+T:\MQ\MQ\obj\Debug\MQ.exe
+T:\MQ\MQ\obj\Debug\MQ.pdb
